@@ -2,7 +2,7 @@ const express = require('express');
 const mongoose = require('mongoose');
 
 const db_url =
-    'mongodb+srv://20225127:Hieu123@cluster0-hiesu.55zvq7w.mongodb.net/hieu_20225127?retryWrites=true&w=majority&appName=Cluster0-Hiesu';
+    'mongodb+srv://20225127:20225127@cluster0-hiesu.55zvq7w.mongodb.net/hieu_20225127?retryWrites=true&w=majority&appName=Cluster0-Hiesu';
 
 const app = express();
 app.use(express.json());
