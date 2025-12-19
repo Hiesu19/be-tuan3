@@ -1,0 +1,15 @@
+/node_modules
+/dist
+/build
+/dist.zip
+/dist.tar.gz
+/dist.tar.bz2
+/dist.tar.xz
+/dist.tar.lzma
+/dist.tar.lz
+/dist.tar.gz.part
+/dist.tar.bz2.part
+/dist.tar.xz.part
+/dist.tar.lzma.part
+/dist.tar.lz.part
+.package-lock.json
